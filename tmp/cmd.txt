@@ -1,0 +1,1 @@
+cd /home/sxy-s3 && nohup jupyter notebook --port=8001 >../tmp/log.txt 2>&1&

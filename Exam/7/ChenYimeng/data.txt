@@ -1,0 +1,11 @@
+0,aa,bb,cc,dd
+1,ab,cd,ef,gh
+8,ef,gh,ij,kl
+0,a,b,c,d
+3,e,f,g,h
+1,i,j,k,l
+3,,f,,
+3,,,,
+1,,h,t,
+1,,,,g
+1,NULL,NULL,NULL,F
